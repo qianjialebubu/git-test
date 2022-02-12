@@ -13,5 +13,6 @@ public class gitteat {
         System.out.println("hello world master");
         System.out.println("hello world hot-fix");
         System.out.println("hello world hot-fix");
+        System.out.println("hello world hot-fix pull test");
     }
 }
